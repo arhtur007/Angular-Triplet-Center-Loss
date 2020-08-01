@@ -1,4 +1,4 @@
-#Angular Triplet Center Loss
+# Angular Triplet Center Loss
 Pytorch implementation of Angular Triplet Center Loss presented in:
 * [Angular Triplet-Center Loss for Multi-view 3D Shape Retrieval](https://arxiv.org/abs/1811.08622)[1]
 
